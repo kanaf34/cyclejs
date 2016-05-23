@@ -1,0 +1,20 @@
+{
+  "name": "cyclejs",
+  "main": "D:/02.Study/00.RxJS/01.cycleJs/step3/index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "devDependencies": {
+    "@cycle/core": "^6.0.3",
+    "@cycle/dom": "^9.4.0",
+    "@cycle/jsonp": "^5.0.1",
+    "lite-server": "^2.2.0",
+    "rx": "^4.1.0"
+  },
+  "version": "1.0.0",
+  "description": "reactive programming with rx ",
+  "dependencies": {},
+  "author": "kanaf",
+  "license": "ISC"
+}
